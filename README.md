@@ -1,5 +1,5 @@
 # BGLauncher
-Blender Game Engine tool to aid game configuration and launching.
+Blender Game Engine tool to aid game configuration and launching. [See the tutorial here.](https://www.youtube.com/watch?v=OUJGyrgQQ2Q)
 
 The goal of this simple tool is:
 - To easily start a game in BGE using a previously saved configuration;
